@@ -11,6 +11,9 @@ import pandas as pd
 
 
 city = ['texus', 'clafornia', 'hollywood']
+df = pd.DataFrame(city)
+df
+type(city)
 
 
 # In[4]:
