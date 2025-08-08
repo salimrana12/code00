@@ -47,6 +47,8 @@ df = pd.DataFrame(zip(city, city1, city2), columns=['city_in_usa', 'city_in_euro
 
 
 df
+df2 = ['telephone', 'older', 'pushfeatch']
+df2
 
 
 # In[ ]:
