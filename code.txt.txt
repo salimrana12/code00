@@ -1,1 +1,6 @@
 this is my file added
+this is my one file
+this is my two file
+this is my four file
+this is my five file
+this is my six file added
